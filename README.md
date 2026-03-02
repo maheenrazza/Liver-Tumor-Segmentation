@@ -1,4 +1,4 @@
-# 🧠 Liver Tumor Segmentation using U-Net, Segmentation Autoencoder (AE) & Denoising Autoencoder (DAE)
+# 🧠 Liver Tumor Segmentation using U-Net, Segmentation Autoencoder (SegAE) & Denoising Autoencoder (DAE)
 
 Deep Learning project implementing convolutional architectures for liver tumor segmentation on the **LiTS17 medical imaging dataset** available on Kaggle.
 
