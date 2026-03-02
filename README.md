@@ -75,6 +75,7 @@ To visualize manually:
 3. Load the predicted `.nii/.nii.gz` segmentation file.
 4. Adjust opacity or enable label overlay for comparison.
 
+Refer to **MITK User Guide - PA2 Deep Learning.pdf** for more.
 
 ---
 
