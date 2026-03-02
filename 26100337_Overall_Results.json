@@ -1,0 +1,42 @@
+{
+    "Task 1": {
+        "Train Loss (Last Epoch)": 0.013322933047711849,
+        "Test Loss (Last Epoch)": 0.013320234650373458,
+        "Train Loss (Minimum)": 0.013322933047711849,
+        "Test Loss (Minimum)": 0.013320234650373458
+    },
+    "Task 2": {
+        "Train Loss (Last Epoch)": 0.0061699043987691405,
+        "Test Loss (Last Epoch)": 0.006200988112390041,
+        "Train Loss (Minimum)": 0.0061699043987691405,
+        "Test Loss (Minimum)": 0.006200988112390041
+    },
+    "Task 3": {
+        "Train Loss (Last Epoch)": 0.06729739845991134,
+        "Test Loss (Last Epoch)": 0.06751444106101989,
+        "Train Loss (Minimum)": 0.06729475135008495,
+        "Test Loss (Minimum)": 0.06743823238611221
+    },
+    "Task 4": {
+        "Train Loss (Last Epoch)": 0.07424984963734944,
+        "Test Loss (Last Epoch)": 0.06215356427431107,
+        "Train Loss (Minimum)": 0.07424984963734944,
+        "Test Loss (Minimum)": 0.06072165586948395
+    },
+    "Task 5": {
+        "Train Loss (Last Epoch)": 0.5511971422958374,
+        "Test Loss (Last Epoch)": 0.7477659016132355,
+        "Train Accuracy (Last Epoch)": 0.80594,
+        "Test Accuracy (Last Epoch)": 0.7478,
+        "Train Loss (Minimum)": 0.5511971422958374,
+        "Test Loss (Minimum)": 0.7391183899879455,
+        "Train Accuracy (Maximum)": 0.80594,
+        "Test Accuracy (Maximum)": 0.7478
+    },
+    "Task 6": {
+        "Train Loss (Last Epoch)": 0.006119767558127642,
+        "Test Loss (Last Epoch)": null,
+        "Train Loss (Minimum)": 0.006119767558127642,
+        "Test Loss (Minimum)": null
+    }
+}
